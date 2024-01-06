@@ -76,6 +76,8 @@ th, td {
 			<h3 style="color: aliceblue;">Rajasthan Ujala</h3></a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="navbar-collapse" aria-controls="navbar-collapse" aria-expanded="true" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
+
+    
   </button> 
 <div class="collapse navbar-collapse  justify-content-between" id="navbar-collapse">
         <ul class="navbar-nav mr-2">
